@@ -1,0 +1,19 @@
+{
+    "name": "mica/socylist",
+    "description": "assassment from socylist",
+    "type": "library",
+    "license": "DBAD",
+    "autoload": {
+        "psr-4": {
+            "Mica\\Socylist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mica-p",
+            "email": "micapaulowork@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
