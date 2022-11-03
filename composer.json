@@ -2,7 +2,7 @@
     "name": "mica/socylist",
     "description": "assassment from socylist",
     "type": "library",
-    "license": "DBAD",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Mica\\Socylist\\": "src/"
